@@ -1,0 +1,12 @@
+../Core/Src/main.c:76:5:main	8	static
+../Core/Src/main.c:132:6:SystemClock_Config	88	static
+../Core/Src/main.c:180:13:MX_CAN1_Init	8	static
+../Core/Src/main.c:217:13:MX_TIM6_Init	16	static
+../Core/Src/main.c:255:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:288:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:326:6:CAN1_Tx	40	static
+../Core/Src/main.c:352:6:CAN1_Rx	4	static
+../Core/Src/main.c:371:6:CAN1_FiterConfig	48	static
+../Core/Src/main.c:433:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:438:6:HAL_GPIO_EXTI_Callback	56	static
+../Core/Src/main.c:474:6:Error_Handler	4	static,ignoring_inline_asm
